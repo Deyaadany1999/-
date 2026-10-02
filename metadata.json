@@ -1,0 +1,7 @@
+{
+  "name": "Heavy Equipment HSE Management System",
+  "description": "Comprehensive enterprise HSE and heavy equipment safety management platform with equipment tracking, incident management, deadline calculation, and bilingual Arabic/English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
